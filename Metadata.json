@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 53470,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-web-app-to-two-windows-azure-vms-(iis-frontend-and-sql-backend)/master/Add-AzureWebApp.ps1",
+    "DownloadCount": 2349,
+    "Id": "Deploy-a-Web-App-to-Two-8ffcdc16",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 189,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates two virtual machines; a front-end Windows Server and a back-end SQL server.  The front-end server is configured with the Web Platform Installer, which is then used to install an application published on the Web Platform Installer catalog.",
+    "Title": "Deploy a Web App to Two Windows Azure VMs (IIS Frontend and SQL Backend)",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-a-web-app-to-two-windows-azure-vms-(iis-frontend-and-sql-backend)",
+    "UserTags": "Provisioning"
+}
